@@ -72,7 +72,8 @@ plt.show()
 
 ```
 ## Output:
-![371980101-fe884dfa-b5c7-47a7-ad8e-4e229a86e9b3](https://github.com/user-attachments/assets/6436de3a-cf9d-4ecf-99a9-f6dc55ab42cd)
+
+![image](https://github.com/user-attachments/assets/6541f86d-2a58-4f88-b4b4-2ccf5caae45e)
 
 
 ## Result: 
